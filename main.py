@@ -9,6 +9,9 @@ def congratulate_user(guesses):
     print("=============================")//
 # I just wanna rock
 
+
+
+#GANG
 def is_game_over():
     return guessed == WORDS_TO_WIN or errors == ERRORS_TO_LOSE
 
