@@ -6,9 +6,9 @@ def congratulate_user(guesses):
     print(f"Congratulations, you won! your words: {guesses}")
     print("=============================")
     print("= Congratulations! You won! =")
-    print("=============================")//
+    print("=============================")
 # I just wanna rock
-
+# 60 in a club
 
 
 #GANG
